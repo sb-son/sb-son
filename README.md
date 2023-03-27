@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shawn Wilson</h1>
 <h3 align="center">A passionate Fullstack developer from Texas</h3>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **AWS** and **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
