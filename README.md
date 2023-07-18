@@ -3,7 +3,7 @@
 
 As a Software Developer, I'm always eager to learn and take on new challenges. I have a diverse background that has shaped my passion for technology and my approach to problem-solving. Before embarking on my career in software development, I worked as a pharmacy technician, which instilled in me the importance of precision, attention to detail, and patient care. While working in healthcare, I pursued my degree in information technology and continued my studies after enlisting in the military.
 
-After completing my service, I devoted myself to completing my degree in information technology and honing my skills in programming by attending a coding bootcamp. In my portfolio, you can see some of the exciting projects I've created using a variety of technologies. I pride myself on my ability to learn quickly, adapt to new environments, and work collaboratively to create innovative solutions. As someone who values collaboration, communication, and attention to detail, I'm excited to connect with employers who share these values.
+After completing my service, I devoted myself to completing my degree in information technology and honing my skills in programming by attending a coding bootcamp. In my portfolio, you can see some of the exciting projects I've created using a variety of technologies. I pride myself on my ability to learn quickly, adapt to new environments, and work collaboratively to create innovative solutions. As someone who values teamwork, integrity, and continuous learning, I'm excited to connect with employers who share these values.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
